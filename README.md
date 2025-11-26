@@ -73,18 +73,14 @@ Pickle (for saving tokenizer & features)
 ## 🔮 Future Improvements
 
 Use Bidirectional GRU or LSTM decoders
-
 Experiment with attention mechanisms for better captions
-
 Use beam search instead of greedy decoding for generation
-
 Train on larger datasets (e.g., MS COCO) for more diverse captions
-
 Convert the notebook into modular Python scripts (src/)
 
 ---
 
 ## 👨‍💻 Author
 
-Jay Bankar
-(Deep Learning / AI Enthusiast)
+Jay Bankar <br>
+Deep Learning / AI Enthusiast
