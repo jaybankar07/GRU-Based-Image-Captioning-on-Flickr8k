@@ -1,4 +1,4 @@
-# GRU-Based-Image-Captioning-on-Flickr8k
+# flickr8k-gru-image-captioning
 GRU-based image captioning model on the Flickr8k dataset using VGG16 image features and Keras/TensorFlow, including preprocessing, training, and caption generation.
 
 # GRU-Based Image Captioning on Flickr8k
